@@ -1,0 +1,347 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Fresh, Premium, Gourmet, Handcrafted, Satisfying" 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Delicious, Authentic, Flavorful, Homely, Variety" 
+            },
+            {
+                "id": 3,
+                "image": "./veg2.jpg",
+                "title": "100% Veg",
+                "description": "100% veg food" 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./alooparantha.jpeg",
+                "title": "ALOO PARANTHA",
+                "category": "Breakfast"
+            },
+            {
+                "id": 2,
+                "image": "./mugpulao.jpeg",
+                "title": "MUG PULAO",
+                "category": "Lunch"
+            },
+            {
+                "id": 3,
+                "image": "./thepla.jpeg",
+                "title": "THEPLA",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./bhakhari.jpeg",
+                "title": "BHAKHARI",
+                "category": "Breakfast"
+            },
+            {
+                "id": 5,
+                "image": "./tea.jpeg",
+                "title": "TEA",
+                "category": "Breakfast"
+            },
+            {
+                "id": 6,
+                "image": "./poha.jpeg",
+                "title": "POHA",
+                "category": "Breakfast"
+            },
+            {
+                "id": 7,
+                "image": "./veg pulao.jpeg",
+                "title": "VEG PULAO",
+                "category": "Lunch"
+            },
+            {
+                "id": 8,
+                "image": "./coffee.jpeg",
+                "title": "COFFEE",
+                "category": "Breakfast"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "1",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "1",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "24",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "20",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ],
+        "menu2": [
+            {
+                "id": 1,
+                "image": "./alooparantha.jpeg",
+                "title": "ALOO PARANTHA",
+                "category": "Breakfast",
+                "price": "25 RS"
+            },
+            {
+                "id": 2,
+                "image": "./thepla.jpeg",
+                "title": "THEPLA",
+                "category": "Breakfast",
+                "price": "20 RS"
+            },
+            {
+                "id": 3,
+                "image": "./bhakhari.jpeg",
+                "title": "BHAKHARI",
+                "category": "Breakfast",
+                "price": "20 RS"
+            },
+            {
+                "id": 4,
+                "image": "./tea.jpeg",
+                "title": "TEA",
+                "category": "Breakfast",
+                "price": "10 RS"
+            },
+            {
+                "id": 5,
+                "image": "./poha.jpeg",
+                "title": "POHA",
+                "category": "Breakfast",
+                "price": "20 RS"
+            },
+            {
+                "id": 6,
+                "image": "./coffee.jpeg",
+                "title": "COFFEE",
+                "category": "Breakfast",
+                "price": "45 RS"
+            },{
+                "id": 7,
+                "image": "./BOURNVITA-MILK.jpeg",
+                "title": "BournVita",
+                "category": "Breakfast",
+                "price": "40 RS"
+            },
+            {
+                "id": 8,
+                "image": "./samosa.jpeg",
+                "title": "SAMOSA",
+                "category": "Breakfast",
+                "price": "35 RS"
+            },
+            {
+                "id": 9,
+                "image": "./puff.jpeg",
+                "title": "PUFF",
+                "category": "Breakfast",
+                "price": "20 RS"
+            },
+            {
+                "id": 10,
+                "image": "./masala thepla.jpeg",
+                "title": "MASALA THEPLA",
+                "category": "Breakfast",
+                "price": "40 RS"
+            },
+            {
+                "id": 11,
+                "image": "./mugpulao.jpeg",
+                "title": "MUG PULAO",
+                "category": "Lunch",
+                "price": "40 RS"
+            },
+            {
+                "id": 12,
+                "image": "./veg pulao.jpeg",
+                "title": "VEG PULAO",
+                "category": "Lunch",
+                "price": "70 RS"
+            },
+            {
+                "id": 13,
+                "image": "./hyderabadi veg biryani.jpeg",
+                "title": "HYDERABADI VEG BIRYANI",
+                "category": "Lunch",
+                "price": "80 RS"
+            },
+            {
+                "id": 14,
+                "image": "./maggie.jpeg",
+                "title": "MAGGIE",
+                "category": "Lunch",
+                "price": "30 RS"
+            },
+            {
+                "id": 15,
+                "image": "./masal maggie.jpeg",
+                "title": "MASALA MAGGIE",
+                "category": "Lunch",
+                "price": "50 RS"
+            },
+            {
+                "id": 16,
+                "image": "./chana pulao.jpeg",
+                "title": "CHANA PULAO",
+                "category": "Lunch",
+                "price": "50 RS"
+            },
+            {
+                "id": 17,
+                "image": "./paneer_pulao.jpeg",
+                "title": "PANEER PULAO",
+                "category": "Lunch",
+                "price": "70 RS"
+            },
+            {
+                "id": 18,
+                "image": "./jeera rice dal fry.jpg",
+                "title": "JEERA RICE & DAL FRY",
+                "category": "Lunch",
+                "price": "80 RS"
+            },
+            {
+                "id": 19,
+                "image": "./hakka noodles.jpeg",
+                "title": "HAKKA NOODLES",
+                "category": "Lunch",
+                "price": "90 RS"
+            },
+            {
+                "id": 20,
+                "image": "./manchuriyan.jpeg",
+                "title": "MANCHURIAN",
+                "category": "Dinner",
+                "price": "80 RS"
+            },
+            {
+                "id": 21,
+                "image": "./schezwan noodles.jpeg",
+                "title": "SCHEZWAN NOODLES",
+                "category": "Dinner",
+                "price": "90 RS"
+            },
+            {
+                "id": 22,
+                "image": "./manchuriyan noodles.jpeg",
+                "title": "MANCHURIAN NOODLES",
+                "category": "Dinner",
+                "price": "90 RS"
+            },
+            {
+                "id": 23,
+                "image": "./pav bhaji.jpg",
+                "title": "PAV BHAJI",
+                "category": "Dinner",
+                "price": "70 RS"
+            }, {
+                "id": 24,
+                "image": "./manchurian rice.jpeg",
+                "title": "MANCHURIAN RICE",
+                "category": "Dinner",
+                "price": "90 RS"
+            }, {
+                "id": 25,
+                "image": "./paneer chilly.jpeg",
+                "title": "PANEER CHILLY",
+                "category": "Dinner",
+                "price": "110 RS"
+            } 
+        ]
+        
+        
+    
+    } 
+    ]
+}
+
+
